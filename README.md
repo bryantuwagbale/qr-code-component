@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-## Deployed Link: [QR Code Component](https://github.com/bryantuwagbale/qr-code-component.git)
+## Deployed Link: [QR Code Component](https://bryantuwagbale.github.io/qr-code-component/)
 
 Thanks for checking out this front-end coding challenge.
 
